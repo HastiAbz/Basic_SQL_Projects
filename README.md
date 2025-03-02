@@ -11,6 +11,7 @@ Features
 - Use SQL queries for filtering and sorting data.
 
 📂 Files
+
 Project1-schema.sql – Defines database structure.
 Project1-data.sql – Inserts sample employee records.
 Project1-queries.sql – Includes SELECT, UPDATE, DELETE commands.
@@ -26,6 +27,7 @@ Features
 - Advanced filtering using WHERE, LIKE, IN, and ORDER BY.
 
 📂 Files
+
 Project2-schema.sql – Creates tables with relationships.
 Project2-data.sql – Inserts sample employees and department records.
 Project2-queries.sql – Includes advanced filtering.
@@ -52,6 +54,7 @@ Features
 - CROSS JOIN: Generate all possible combinations of employees and departments
 
 📂 Files
+
 Project3-schema.sql – Creates tables with relationships.
 Project3-data.sql – Inserts sample employees, departments and Salaries records.
 Project3-queries.sql –  Includes advanced JOIN operations.
