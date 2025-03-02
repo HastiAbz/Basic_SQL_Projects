@@ -1,0 +1,12 @@
+-- STEP 1 : Create a Database
+CREATE DATABASE IF NOT EXISTS EmployeeDB;
+USE EmployeeDB;
+SHOW DATABASES;
+ -- STEP 2: Create Tables 
+CREATE TABLE IF NOT EXISTS employees (
+id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(100) NOT NULL,
+age INT NOT NULL CHECK (age >= 18),
+department VARCHAR(50),
+salary DECIMAL(10,2) NOT NULL CHECK (salary > 0));
+
