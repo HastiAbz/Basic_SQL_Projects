@@ -32,7 +32,7 @@ Features
 - Project2-data.sql – Inserts sample employees and department records.
 - Project2-queries.sql – Includes advanced filtering.
 
-# Advanced Employee & Department Data Retrieval
+# Project 3: Advanced Employee, Department & Salary Data Retrieval
 
 
 Project Overview
