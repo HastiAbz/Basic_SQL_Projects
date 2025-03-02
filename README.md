@@ -12,9 +12,9 @@ Features
 
 📂 Files
 
-Project1-schema.sql – Defines database structure.
-Project1-data.sql – Inserts sample employee records.
-Project1-queries.sql – Includes SELECT, UPDATE, DELETE commands.
+. Project1-schema.sql – Defines database structure.
+. Project1-data.sql – Inserts sample employee records.
+. Project1-queries.sql – Includes SELECT, UPDATE, DELETE commands.
 
 # Project 2: Employee & Department Management System
 
@@ -28,9 +28,9 @@ Features
 
 📂 Files
 
-Project2-schema.sql – Creates tables with relationships.
-Project2-data.sql – Inserts sample employees and department records.
-Project2-queries.sql – Includes advanced filtering.
+. Project2-schema.sql – Creates tables with relationships.
+. Project2-data.sql – Inserts sample employees and department records.
+. Project2-queries.sql – Includes advanced filtering.
 
 # Advanced Employee & Department Data Retrieval
 
@@ -55,6 +55,6 @@ Features
 
 📂 Files
 
-Project3-schema.sql – Creates tables with relationships.
-Project3-data.sql – Inserts sample employees, departments and Salaries records.
-Project3-queries.sql –  Includes advanced JOIN operations.
+. Project3-schema.sql – Creates tables with relationships.
+. Project3-data.sql – Inserts sample employees, departments and Salaries records.
+. Project3-queries.sql –  Includes advanced JOIN operations.
